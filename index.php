@@ -51,7 +51,7 @@
     </div>
     <div class="row justify-content-center fs-5 text-center">
       <div class="col-md-4">
-        Hi, My Name Is Dwi Juna Pratama, I'm Born In Bandung, West Java, I Live In Tasikmalaya For Now. I'm Studied In Vocational High School District 4 Tasikmalaya.
+        Hi. My Name Is Dwi Juna Pratama, I'm Born In Bandung, West Java. I Live In Tasikmalaya For Now. I'm Studied In Vocational High School District 4 Tasikmalaya.
       </div>
       <div class="col-md-4">
         My Hobby Is Learning To Code, Listening Music, Watching Movies.
