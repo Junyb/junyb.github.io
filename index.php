@@ -35,7 +35,7 @@
   </div>
 </nav>
 <!--Jumbotron-->
-<section class="jumbotron text-center" style="padding-top: 6rem;">
+<section class="jumbotron text-center" style="padding-top: 6rem; background-color: #a7b6cf;">
   <img src="img/profile.jpg" alt="Picture" width="200" class="rounded-circle img-thumbnail">
   <h1 class="display-4">Junyb</h1>
   <p class="lead">Student In Vocational High School District 4 Tasikmalaya.</p>
