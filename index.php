@@ -25,7 +25,7 @@
           <a class="nav-link" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#projects">Experience</a>
+          <a class="nav-link" href="#projects"> Experience</a>
         </li>
         <li class="nav-item">
           <a class="nav-link " href="#contact">Contact</a>
@@ -114,18 +114,18 @@
       <form name="SokAthKirim">
   <div class="mb-3">
     <label for="Nama" class="form-label">Name</label>
-    <input type="text" class="form-control" id="name" aria-describedby="name" name="name">
+    <input type="text" class="form-control" id="name" aria-describedby="name" name="name" required>
     <div id="emailHelp" class="form-text">We'll never share your identity with anyone else.</div>
   </div>
       <form>
   <div class="mb-3">
     <label for="Email1" class="form-label">Email</label>
-    <input type="email" class="form-control" id="Email1" aria-describedby="Email" name="email">
+    <input type="email" class="form-control" id="Email1" aria-describedby="Email" name="email" required>
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
   <label for="Message" class="form-label">Message</label>
-  <textarea class="form-control" id="Message" rows="3" name="message"></textarea>
+  <textarea class="form-control" id="Message" rows="3" name="message" required></textarea>
 </div>
   <button type="submit" class="btn btn-primary btn-send">Send</button>
   <button class="btn btn-primary btn-load d-none" type="button" disabled>
@@ -142,7 +142,7 @@
 <footer class="text-black text-center pb-3" style="background-color: #75d9b6;">
   <p>Made In <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-suit-heart-fill" viewBox="0 0 16 16">
   <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"/>
-</svg> <a href="https://grabify.link/SPDXMI" class="text-black fw-bold" target="_blank">Junyb</a>, All Rights Reserved. </p>
+</svg> <a href="https://grabify.link/SPDXMI" class="text-black fw-bold" target="_blank">Junyb</a>, &copy; All Rights Reserved. </p>
 </footer>
 <!--JS Bootstrap-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
