@@ -71,7 +71,7 @@
   <div class="row text-center">
     <div class="col-md-4 mb-3">
     <div class="card";>
-  <img src="img/1.jpg" class="card-img-top" alt="...">
+  <img src="img/1.jpg" class="card-img-top">
   <div class="card-body">
     <p class="card-text">HARDWARE TECHNICIAN.</p>
   </div>
@@ -127,7 +127,7 @@
   <label for="Message" class="form-label">Message</label>
   <textarea class="form-control" id="Message" rows="3" name="message" required></textarea>
 </div>
-  <button type="submit" class="btn btn-primary btn-send">Send</button>
+  <button type="" class="btn btn-primary btn-send">Send</button>
   <button class="btn btn-primary btn-load d-none" type="button" disabled>
   <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
   Loading...
@@ -146,7 +146,7 @@
 </footer>
 <!--JS Bootstrap-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<!--JS G speedsheet-->
+<!--JS G Sheet-->
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycbw2RTV5hHZxEQcarqNBbA1KsFxi_25QPovNIdQj6KgnYLyRuMCnDBOUt8BYdHV8SEXETg/exec'
   const form = document.forms['SokAthKirim']
